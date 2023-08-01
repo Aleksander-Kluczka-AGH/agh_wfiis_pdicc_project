@@ -1,5 +1,8 @@
-# dpicc_project_2022
-Data Processing in Cloud Computing Project for AD's course.
+# Processing data in cloud computation - Project
+
+Project written for Applied Computer Science **Processing data in cloud computation** course at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
+
+Semester `7`, year `2022`.
 
 ## Recommended IDE Setup
 
@@ -32,3 +35,8 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+## License
+
+Sources are licensed under MIT, a free and open-source license. For details, please see [the license file](LICENSE.md).
